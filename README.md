@@ -1,4 +1,4 @@
-# Data-fusion-for-estimating-ambient-air-pollution-with-spatial-disalignment
+# Data fusion for estimating ambient air pollution with spatial disalignment
 
 Hello World! :wave:  
 
